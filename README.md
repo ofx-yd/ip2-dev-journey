@@ -38,4 +38,3 @@ By the end of the course, I aim to:
 
 ---
 
-## 🗂 Repository Structure
